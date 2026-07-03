@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { TypeAnimation } from "react-type-animation";
 import { useNavigate } from "react-router-dom";
 import distillationImg from "../asset/distillation1.jpg";
-import wfeImg from "../asset/wfe1.jpg";
+import wfeImg from "../asset/WFE1.jpg";
 import solventImg from "../asset/solvent1.jpg";
 import { s } from "framer-motion/client";
 
