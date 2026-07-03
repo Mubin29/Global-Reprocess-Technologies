@@ -2,8 +2,8 @@ import React, { useState, useEffect } from "react";
 import { TypeAnimation } from "react-type-animation";
 
 // ✅ HERO IMAGES
-import tech1 from "../asset/tech1.avif";
-import tech2 from "../asset/tech2.avif";
+import tech1 from "../asset/Tech1.avif";
+import tech2 from "../asset/Tech2.avif";
 import hero5 from "../asset/Hero Image 5.jpg";
 
 // ✅ CONTENT IMAGES
